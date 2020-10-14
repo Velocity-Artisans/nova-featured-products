@@ -1,13 +1,14 @@
 {
     "name": "velocity-artisans/nova-featured-products",
-    "description": "A Laravel Nova tool.",
+    "description": "A Laravel Nova tool for featured products for Velocity Artisans.",
     "keywords": [
         "laravel",
-        "nova"
+        "nova",
+        "velocity artisans"
     ],
     "license": "MIT",
     "require": {
-        "php": ">=7.1.0"
+        "php": ">=7.4.0"
     },
     "autoload": {
         "psr-4": {
